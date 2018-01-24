@@ -1,0 +1,8 @@
+# Build and Release Folders
+node_modules
+uploads/
+images/
+
+# Executables
+*.md
+
